@@ -2,4 +2,5 @@
 Proiect de Licenta
 
 pip install -r requirements.txt
+
 Rulare: streamlit run app.py

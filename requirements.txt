@@ -1,0 +1,9 @@
+tweepy
+pandas_profiling
+streamlit
+sklearn
+numpy
+transformers
+pytorch
+wordcloud
+matplotlib
